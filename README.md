@@ -31,7 +31,7 @@
 | [引力加速](#3-引力加速) | 50GB/月 / ¥19 起 | 256GB / ¥55 起 | 从 50GB 月流量到 TB 级档位 |
 | [NekoLink](#4-nekolink) | 150GB/月 / ¥25.90 起 | 188GB / ¥79 起 | 提供家宽及部分冷门地区出口 |
 | [独一](#5-独一) | 128GB/月 / ¥35 起 | 66GB / ¥66 起 | 基础、优质、精品专线三档 |
-| [SoraVPN](#6-soravpn) | 以不限时套餐为主 | 120GB / ¥69 起 | 四档总流量，不按月重置 |
+| [SoraLink](#6-soralink) | 以不限时套餐为主 | 120GB / ¥69 起 | 四档总流量，不按月重置 |
 | [凿壁](#7-凿壁) | 80GB/月 / ¥22 起 | 60GB / ¥49 起 | 同时提供周期和不限时套餐 |
 | [畅网通](#8-畅网通) | 提供固定总流量套餐 | 64GB / ¥29 起 | 六档永久流量，支持礼品卡购买 |
 
@@ -97,17 +97,17 @@ NekoLink 的标准、高级、白金套餐分别为每月 150GB、350GB、1TB，
 
 ![独一节点测试图](assets/speedtest-duyi.jpg)
 
-### 6. SoraVPN
+### 6. SoraLink
 
-<img src="assets/soravpn.png" alt="SoraVPN" width="48" height="48">
+<img src="assets/soravpn.png" alt="SoraLink" width="48" height="48">
 
-SoraVPN 以不限时套餐为主，120GB、240GB、500GB、1TB 四档分别为 ¥69、¥99、¥169、¥269。购买的是总流量额度，不需要每个月为未用完的额度重新续费。
+SoraLink 以不限时套餐为主，120GB、240GB、500GB、1TB 四档分别为 ¥69、¥99、¥169、¥269。购买的是总流量额度，不需要每个月为未用完的额度重新续费。
 
 这种计费方式适合使用频率不固定的情况，比如项目期间集中访问开发工具，结束后较少连接。若要与其他机场搭配使用，可以在 Clash 中保留独立配置，或者通过订阅提供者管理不同节点来源，切换时无需重新寻找订阅地址。
 
-[查看 SoraVPN 套餐](https://www.soravpn.com/#/auth?invite=uS5uWltToa)
+[查看 SoraLink 套餐](https://www.soralink.org/#/auth?invite=uS5uWltToa)
 
-![SoraVPN 节点测试图](assets/speedtest-soravpn.jpg)
+![SoraLink 节点测试图](assets/speedtest-soravpn.jpg)
 
 ### 7. 凿壁
 
