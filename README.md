@@ -1,4 +1,4 @@
-# Clash机场推荐 2026｜节点订阅与机场优惠汇总
+# Clash机场推荐 2026年11月最新｜节点订阅与机场优惠汇总
 
 本页面提供 Clash机场推荐、套餐价格和优惠信息，同时介绍 Clash、v2rayN、v2rayNG、Shadowrocket 等客户端的订阅使用方法。
 
@@ -26,8 +26,8 @@
 
 | 机场 | 周期套餐参考 | 不限时流量参考 | 可以优先考虑的需求 |
 | --- | --- | --- | --- |
-| [潮汐 Tidal](#1-潮汐-tidal) | Air 100GB/月，另有 Plus、Pro | 128GB / ¥59 起 | 多档月流量，提供官方客户端 |
-| [魔法棒](#2-魔法棒) | 188GB/月 / ¥30 起 | 288GB / ¥79 起 | 周期套餐流量起点较高 |
+| [魔法棒](#1-魔法棒) | 188GB/月 / ¥30 起 | 288GB / ¥79 起 | 周期套餐流量起点较高 |
+| [潮汐 Tidal](#2-潮汐-tidal) | Air 100GB/月，另有 Plus、Pro | 128GB / ¥59 起 | 多档月流量，提供官方客户端 |
 | [引力加速](#3-引力加速) | 50GB/月 / ¥19 起 | 256GB / ¥55 起 | 从 50GB 月流量到 TB 级档位 |
 | [NekoLink](#4-nekolink) | 150GB/月 / ¥25.90 起 | 188GB / ¥79 起 | 提供家宽及部分冷门地区出口 |
 | [独一](#5-独一) | 128GB/月 / ¥35 起 | 66GB / ¥66 起 | 基础、优质、精品专线三档 |
@@ -35,19 +35,7 @@
 | [凿壁](#7-凿壁) | 80GB/月 / ¥22 起 | 60GB / ¥49 起 | 同时提供周期和不限时套餐 |
 | [畅网通](#8-畅网通) | 提供固定总流量套餐 | 64GB / ¥29 起 | 六档永久流量，支持礼品卡购买 |
 
-### 1. 潮汐 Tidal
-
-<img src="assets/tidal.png" alt="Tidal 潮汐" width="48" height="48">
-
-潮汐提供 Air、Plus、Pro 周期套餐，Air 每月包含 100GB 流量；不限时套餐则有 128GB、256GB、512GB 三档，128GB 为 ¥59。
-
-客户端选择比较齐全：既可以使用官方应用，也可以将订阅导入 Clash Verge Rev、Clash Mi、Shadowrocket 等软件。电脑需要自定义分流、手机希望直接连接时，可以分别选择使用方式，无须所有设备统一安装同一款客户端。
-
-[查看潮汐套餐](https://www.tidalfast.com/#/auth?invite=uS5uWlqTmA)
-
-![潮汐节点测试图](assets/speedtest-tidal.jpg)
-
-### 2. 魔法棒
+### 1. 魔法棒
 
 <img src="assets/mofabang.webp" alt="魔法棒" width="48" height="48">
 
@@ -58,6 +46,18 @@
 [查看魔法棒套餐](https://www.mofabang.net/auth?invite=uS5uWlKYME)
 
 ![魔法棒节点测试图](assets/speedtest-mofabang.jpg)
+
+### 2. 潮汐 Tidal
+
+<img src="assets/tidal.png" alt="Tidal 潮汐" width="48" height="48">
+
+潮汐提供 Air、Plus、Pro 周期套餐，Air 每月包含 100GB 流量；不限时套餐则有 128GB、256GB、512GB 三档，128GB 为 ¥59。
+
+客户端选择比较齐全：既可以使用官方应用，也可以将订阅导入 Clash Verge Rev、Clash Mi、Shadowrocket 等软件。电脑需要自定义分流、手机希望直接连接时，可以分别选择使用方式，无须所有设备统一安装同一款客户端。
+
+[查看潮汐套餐](https://www.tidalfast.com/#/auth?invite=uS5uWlqTmA)
+
+![潮汐节点测试图](assets/speedtest-tidal.jpg)
 
 ### 3. 引力加速
 
